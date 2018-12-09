@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <info>
 	<BaseInfo>
 	</BaseInfo>
@@ -6,8 +6,8 @@
     <LocalizationInfo>
        <Language>English</Language>
        <Content>
-           ObjectType.Lamppost = Lamppost
-           ObjectType.Lamppost.Desc = Lampposts are a not so cheap source of light.
+           ObjectType.StreetLamp = Street Lamp
+           ObjectType.StreetLamp.Desc = Street lamps are a not so cheap source of light.
        </Content>
     </LocalizationInfo>
 
