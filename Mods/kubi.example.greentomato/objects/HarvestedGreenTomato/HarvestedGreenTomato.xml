@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../../../info.xsd">
+    
+    <BaseInfo>
+        <!--IMPORTANT: Remove the following line to see the green tomato in your game.-->
+        <InvisibleToUser>1</InvisibleToUser>
+    </BaseInfo>
+    
+	<ItemInfo>
+		<IsFood>1</IsFood>
+        <Weight>0.5</Weight>
+        <StackCount>4</StackCount>
+        <StackType>Beside</StackType>
+	</ItemInfo>
+
+    <LocalizationInfo>
+		<Language>English</Language>
+		<Content>
+            ObjectType.HarvestedGreenTomato = Harvested green tomato
+            ObjectType.HarvestedGreenTomato.Desc = A bunch of harvested green tomatoes.
+        </Content>
+	</LocalizationInfo>
+</info>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:noNamespaceSchemaLocation="../../../../info.xsd">
+
+	<BaseInfo>
+		<!--IMPORTANT: Remove the following line to see the green tomato in your game.--> 
+		<InvisibleToUser>1</InvisibleToUser>
+		<AddCollider>1</AddCollider>
+	</BaseInfo>
+
+    <LocalizationInfo>
+		<Language>English</Language>
+		<Content>
+            ObjectType.GreenTomato = Green tomato
+            ObjectType.GreenTomato.Desc = A green tomato plant.
+        </Content>
+	</LocalizationInfo>
+
+    <MineableInfo>
+        <MinesTo>HarvestedGreenTomato</MinesTo>
+    </MineableInfo>
+
+	<ModelInfo>
+ 		<Height>1.25</Height>
+         <BuildFrames>6</BuildFrames>
+	</ModelInfo>
+
+  	<PlantInfo>
+        <GrowsOnTile>Floor_Grass,Floor_Earth</GrowsOnTile>
+  		<GrowTime>120</GrowTime>
+      	<IsCrop>1</IsCrop>
+  	</PlantInfo>
+</info>

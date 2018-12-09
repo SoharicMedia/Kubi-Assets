@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../../../info.xsd">
+
+    <ModelInfo>
+        <ScaleX>1.5</ScaleX>
+        <ScaleY>1.5</ScaleY>
+        <ScaleZ>1.5</ScaleZ>
+    </ModelInfo>
+
+    <SpawnerInfo>
+        <SpawnFrequency>0.35</SpawnFrequency>
+    </SpawnerInfo>
+
+</info>
