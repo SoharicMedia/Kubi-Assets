@@ -1,4 +1,4 @@
-# Kubifaktorium Additional Content
+# Kubifaktorium Asset Pack
 <p>This project started off life as several small modifications for Kubifaktorium. By combining things like cow variants, new robots, helicopters etc, this 'modpack' provides a greater variety of assets to the game.</p>
 <p><b>Installation</b><p>
 <p>To install, simply extract this whole repository into Kubifaktorium's StreamingAssets folder.</p>
