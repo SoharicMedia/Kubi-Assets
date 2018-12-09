@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+	<BaseInfo>
+	</BaseInfo>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.Lamppost = Lamppost
+           ObjectType.Lamppost.Desc = Lampposts are a not so cheap source of light.
+       </Content>
+    </LocalizationInfo>
+
+    <DecorationInfo>
+        <Category>Decoration</Category>
+    </DecorationInfo>
+
+	<BuildingRecipeInfo>
+		<Ingredients>Iron</Ingredients>
+        <CanBuildOnAllSolidGround>1</CanBuildOnAllSolidGround>
+    </BuildingRecipeInfo>
+
+    <ModelInfo>
+    	<SpecialPrefabs>TorchLight</SpecialPrefabs>
+  		<BuildFrames>2</BuildFrames>
+    </ModelInfo>
+
+  	<SpawnerInfo>
+  		<SpawnTiles>Floor_Sand,Floor_Grass,Floor_Desert_Sand,Floor_Desert_SandHigh</SpawnTiles>
+  	</SpawnerInfo>
+
+
+</info>
