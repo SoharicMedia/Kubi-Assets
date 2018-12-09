@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../info.xsd">
+    
+    <UserModInfo>
+        <ModName>Zeppelin Variants</ModName>
+        <Description>Add one new Zeppelin reskin.</Description>
+    </UserModInfo>
+    
+    <UserModAuthor>
+        <AuthorName>Soharic</AuthorName>
+        <Email>contact@soharicmedia.com</Email>
+    </UserModAuthor>
+</info>

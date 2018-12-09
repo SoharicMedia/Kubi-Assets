@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../../info.xsd">
+
+	<BaseInfo>
+	</BaseInfo>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.ZeppelinUnit = Zeppelin
+           ObjectType.ZeppelinUnit.Desc = Zeppelin
+       </Content>
+    </LocalizationInfo>
+
+  	<ModelInfo>
+  		<AnimationFrames>2</AnimationFrames>
+  		<AnimationSpeed>2</AnimationSpeed>
+  		<AnimationAutoStart>1</AnimationAutoStart>
+  		<AnimationAutoSync>0</AnimationAutoSync>
+  	</ModelInfo>
+
+    <ZeppelinInfo>
+        <Resistance>1</Resistance>
+        <Acceleration>0.75</Acceleration>
+        <Altitude>2</Altitude>
+    </ZeppelinInfo>
+    
+</info>
