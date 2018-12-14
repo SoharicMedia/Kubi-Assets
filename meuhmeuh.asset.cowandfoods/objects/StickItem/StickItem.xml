@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+
+  <LocalizationInfo>
+     <Language>English</Language>
+     <Content>
+         ObjectType.StickItem = Stick
+         ObjectType.StickItem.Desc = Stick
+     </Content>
+  </LocalizationInfo>
+
+	<ItemInfo>
+    <StackCount>6</StackCount>
+    <StackType>Pyramid</StackType>
+    <StackDist>2.5</StackDist>
+    <StackHeight>1.0</StackHeight>
+	</ItemInfo>
+
+  <ModelInfo>
+      <ScaleX>0.5</ScaleX>
+      <ScaleY>0.5</ScaleY>
+      <ScaleZ>0.5</ScaleZ>
+    </ModelInfo>
+
+  <WorkshopRecipeInfo>
+      <Outputs>4*StickItem</Outputs>
+      <Inputs>1*Log</Inputs>
+      <ProductionTime>10</ProductionTime>
+      <Workshops>BasicWorkplace</Workshops>
+  </WorkshopRecipeInfo>
+</info>
+    
+

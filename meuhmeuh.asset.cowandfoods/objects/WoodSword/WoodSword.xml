@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.WoodSword = Wooden sword
+           ObjectType.WoodSword.Desc = The wooden sword is a basic melee weapon which does more damage than using bare hands.
+       </Content>
+    </LocalizationInfo>
+
+	<ToolInfo>
+		<TaskType>Combat</TaskType>
+		<BaseEffect>6</BaseEffect>
+	</ToolInfo>
+
+    <ItemInfo>
+        <Weight>0</Weight>
+    </ItemInfo>
+
+    <WorkshopRecipeInfo>
+        <Outputs>WoodSword</Outputs>
+        <Inputs>2*StickItem,StoneBlock</Inputs>
+        <ProductionTime>25</ProductionTime>
+        <Workshops>BasicWorkplace</Workshops>
+    </WorkshopRecipeInfo>
+
+</info>

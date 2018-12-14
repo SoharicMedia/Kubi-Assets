@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+	<ItemInfo>
+        <Weight>1</Weight>
+        <StackCount>5</StackCount>
+        <StackType>Beside</StackType>
+        <StackHeight>2.25</StackHeight>
+        <StackDist>2.625</StackDist>
+	</ItemInfo>
+
+  <ModelInfo>
+      <ScaleX>0.7</ScaleX>
+      <ScaleY>0.7</ScaleY>
+      <ScaleZ>0.7</ScaleZ>
+    </ModelInfo>
+
+    <WorkshopRecipeInfo>
+        <Outputs>3*FlourItem</Outputs>
+        <Inputs>1*HarvestedWheat</Inputs>
+        <ProductionTime>30</ProductionTime>
+        <Workshops>Windmill</Workshops>
+    </WorkshopRecipeInfo>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.FlourItem = Flour Item
+           ObjectType.FlourItem.Desc = Flour Item
+       </Content>
+    </LocalizationInfo>
+</info>

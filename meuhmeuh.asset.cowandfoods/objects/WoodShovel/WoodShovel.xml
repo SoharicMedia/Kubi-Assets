@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.WoodShovel = Wooden shovel
+           ObjectType.WoodShovel.Desc = Shovels are used for farm work.
+       </Content>
+    </LocalizationInfo>
+
+	<ToolInfo>
+		<TaskType>Agriculture</TaskType>
+		<BaseEffect>3</BaseEffect>
+	</ToolInfo>
+
+    <ItemInfo>
+    </ItemInfo>
+
+    <WorkshopRecipeInfo>
+        <Outputs>WoodShovel</Outputs>
+        <Inputs>2*StickItem,StoneBlock</Inputs>
+        <ProductionTime>25</ProductionTime>
+        <Workshops>BasicWorkplace</Workshops>
+    </WorkshopRecipeInfo>
+
+</info>

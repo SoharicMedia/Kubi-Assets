@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+	<BaseInfo>
+		<Size>1</Size>
+	</BaseInfo>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.Oven = Oven
+           ObjectType.Oven.Desc = Oven
+       </Content>
+    </LocalizationInfo>
+
+	<ManualWorkshopInfo>
+        <Category>Workshop</Category>
+        <InputSpots>0,0,0;0,0,0</InputSpots>
+        <OutputSpots>0,0.375,-0.875</OutputSpots>
+        <SettlerInteractionSpots>0.0,0,0,0,90,0</SettlerInteractionSpots>
+	</ManualWorkshopInfo>
+
+    <ModelInfo>
+    	<SpecialPrefabs>TorchSmoke,TorchLight</SpecialPrefabs>
+  		<BuildFrames>1</BuildFrames>
+  		<ScaleX>0.5</ScaleX>
+  		<ScaleY>0.5</ScaleY>
+  		<ScaleZ>0.5</ScaleZ>
+    </ModelInfo>
+
+	<BuildingRecipeInfo>
+		<Ingredients>4*MinedRock</Ingredients>    
+	</BuildingRecipeInfo>
+</info>

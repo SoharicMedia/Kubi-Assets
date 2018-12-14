@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.WoodPickaxe = Wooden pickaxe
+           ObjectType.WoodPickaxe.Desc = Pickaxes are used for mining rocks, trees and mountains.
+       </Content>
+    </LocalizationInfo>
+
+	<ToolInfo>
+		<TaskType>Mining</TaskType>
+		<BaseEffect>3</BaseEffect>
+	</ToolInfo>
+
+    <ItemInfo>
+    </ItemInfo>
+
+    <WorkshopRecipeInfo>
+        <Outputs>WoodPickaxe</Outputs>
+        <Inputs>2*StickItem,StoneBlock</Inputs>
+        <ProductionTime>25</ProductionTime>
+        <Workshops>BasicWorkplace</Workshops>
+    </WorkshopRecipeInfo>
+
+	
+</info>

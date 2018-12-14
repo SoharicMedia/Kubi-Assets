@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+	<ItemInfo>
+		<IsFood>1</IsFood>
+        <Weight>0.5</Weight>
+        <StackCount>4</StackCount>
+        <StackType>Beside</StackType>
+	</ItemInfo>
+
+    <LocalizationInfo>
+		<Language>English</Language>
+		<Content>
+            ObjectType.HarvestedCarrot = Harvested Carrot
+            ObjectType.HarvestedCarrot.Desc = A bunch of harvested carrots.
+        </Content>
+	</LocalizationInfo>
+</info>

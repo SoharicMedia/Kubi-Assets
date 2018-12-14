@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.Bread = Bread
+           ObjectType.Bread.Desc = A rich source of nutrition.
+       </Content>
+    </LocalizationInfo>
+
+    <ItemInfo>
+        <Weight>0.5</Weight>
+        <StackCount>5</StackCount>
+        <StackType>Beside</StackType>
+        <StackHeight>2.25</StackHeight>
+        <StackDist>2.625</StackDist>
+        <IsFood>1</IsFood>
+    </ItemInfo>
+
+    <WorkshopRecipeInfo>
+        <Outputs>2*Bread</Outputs>
+        <Inputs>WaterBucket,FlourItem,Charcoal</Inputs>
+        <ProductionTime>25</ProductionTime>
+        <Workshops>Oven</Workshops>
+    </WorkshopRecipeInfo>
+
+</info>
+
+

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+	<BaseInfo>
+		<Size>3</Size>
+	</BaseInfo>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.FishingHouse = Fishing House
+           ObjectType.FishingHouse.Desc = Fishing House 
+       </Content>
+    </LocalizationInfo>
+
+	<ManualWorkshopInfo>
+        <Category>Food</Category>
+        <InputSpots>0.0,0,0,0,0,0</InputSpots>
+        <OutputSpots>0,0.375,-0.875</OutputSpots>
+        <SettlerInteractionSpots>0,0.80,0.5,0,180,0</SettlerInteractionSpots>
+	</ManualWorkshopInfo>
+
+    <ModelInfo>
+  		<BuildFrames>5</BuildFrames>
+    </ModelInfo>
+
+	<BuildingRecipeInfo>
+		<Ingredients>4*Log</Ingredients>    
+	</BuildingRecipeInfo>
+
+
+</info>

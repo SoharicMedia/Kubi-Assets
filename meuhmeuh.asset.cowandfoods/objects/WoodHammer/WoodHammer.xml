@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.WoodHammer = Wooden hammer
+           ObjectType.WoodHammer.Desc = Hammers are used to produce goods and construct buildings.
+       </Content>
+    </LocalizationInfo>
+
+	<ToolInfo>
+		<TaskType>Crafting</TaskType>
+		<BaseEffect>3</BaseEffect>
+	</ToolInfo>
+
+    <ItemInfo>
+    </ItemInfo>
+
+    
+    <WorkshopRecipeInfo>
+        <Outputs>WoodHammer</Outputs>
+        <Inputs>2*StickItem,StoneBlock</Inputs>
+        <ProductionTime>25</ProductionTime>
+        <Workshops>BasicWorkplace</Workshops>
+    </WorkshopRecipeInfo>
+
+
+</info>

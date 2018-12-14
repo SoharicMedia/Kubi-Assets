@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+	<BaseInfo>
+		<tags>NavMeshSource,Crop</tags>
+	</BaseInfo>
+
+  <LocalizationInfo>
+		<Language>English</Language>
+		<Content>
+            ObjectType.Carrot = Carrot
+            ObjectType.Carrot.Desc = A carrot plant.
+        </Content>
+	</LocalizationInfo>
+
+    <MineableInfo>
+        <MinesTo>HarvestedCarrot</MinesTo>
+    </MineableInfo>
+
+	<ModelInfo>
+ 		<height>1.0</height>
+    <BuildFrames>5</BuildFrames>
+	</ModelInfo>
+
+  	<PlantInfo>
+        <GrowsOnTile>Floor_Grass</GrowsOnTile>
+  		  <GrowTime>90</GrowTime>
+      	<IsCrop>1</IsCrop>
+  	</PlantInfo>
+</info>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.CookedFishItem = Cooked Fish
+           ObjectType.CookedFishItem.Desc = Cooked Fish
+       </Content>
+    </LocalizationInfo>
+
+     <ItemInfo>
+        <Weight>0.5</Weight>
+        <StackCount>5</StackCount>
+        <StackType>Beside</StackType>
+        <StackHeight>2.25</StackHeight>
+        <StackDist>2.625</StackDist>
+        <IsFood>1</IsFood>
+    </ItemInfo>
+
+    <ModelInfo>
+      <ScaleX>0.5</ScaleX>
+      <ScaleY>0.5</ScaleY>
+      <ScaleZ>0.5</ScaleZ>
+    </ModelInfo>
+
+    <WorkshopRecipeInfo>
+        <Outputs>CookedFishItem</Outputs>
+        <Inputs>RawFishItem,Charcoal</Inputs>
+        <ProductionTime>20</ProductionTime>
+        <Workshops>Oven</Workshops>
+    </WorkshopRecipeInfo>
+
+</info>

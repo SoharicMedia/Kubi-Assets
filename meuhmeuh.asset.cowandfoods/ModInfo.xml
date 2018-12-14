@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../info.xsd">
+    <!--Hint: If you use an xml editor, you can use the above xsd-file to get autocompletion and validation while editing.-->
+
+    
+    <UserModInfo>
+        <ModName>Green Tomato Mod</ModName>
+        <Description>This is a simple example mod which demos how to add an item.</Description>
+    </UserModInfo>
+
+    
+    <!--Note: If the mod has multiple authors, you can have multiple UserModAuthor-blocks--> 
+    <UserModAuthor>
+        <AuthorName>Mirko</AuthorName>
+        <Email>info@bossconstructor.de</Email>
+    </UserModAuthor>
+</info>
+
+
+MODINFO.TXT
+
+Name   : Cow And Foods
+Version: v0.1
+Author : Meuhmeuh#0741
+
+Require: OilLamp
+Thanks for roadfox#1682 to allow me to have his mod as require !
+
+Changelog v0.1
+ - Add Oven : Cook Bread and Fish
+ - Add Fishing House : Get Raw Fish
+ - Add Raw Fish
+ - Add Cooked Fish : Crafted in Oven
+
+ - Add Carrot farm
+ - Add Carrot Stew : Crafted in Bakery
+
+ - Add Stick : Crafted in Basic Workshop
+ - Add Flour : Crafted in Windmill (OilLamp Mod)
+ - Add Fishing Rod : Useless for now !
+ - Changed Bread recipe: Crafted in Oven
+ - Changed Wood Tool recipe : Now with Stick

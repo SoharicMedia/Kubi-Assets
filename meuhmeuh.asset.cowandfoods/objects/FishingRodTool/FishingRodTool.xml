@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.FishingRodTool = Fishing Rod
+           ObjectType.FishingRodTool.Desc = Fishing Rod
+       </Content>
+    </LocalizationInfo>
+
+	<ToolInfo>
+		<TaskType>FishingHouse</TaskType>
+		<BaseEffect>10</BaseEffect>
+	</ToolInfo>
+
+    <ItemInfo>
+    </ItemInfo>
+
+    <WorkshopRecipeInfo>
+        <Outputs>FishingRodTool</Outputs>
+        <Inputs>3*StickItem</Inputs>
+        <ProductionTime>25</ProductionTime>
+        <Workshops>BasicWorkplace</Workshops>
+    </WorkshopRecipeInfo>
+
+	
+</info>
