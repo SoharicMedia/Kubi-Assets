@@ -5,6 +5,7 @@
     <UserModInfo>
         <ModName>Oil Lamp</ModName>
         <Description>Oil Lamp full production chain.</Description>
+	<ActiveByDefault>0</ActiveByDefault>
     </UserModInfo>
     
     <UserModAuthor>

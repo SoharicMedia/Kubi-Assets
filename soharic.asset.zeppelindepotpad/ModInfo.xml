@@ -5,6 +5,7 @@
     <UserModInfo>
         <ModName>Zeppelin Depot Pad</ModName>
         <Description>Replaces the Zeppelin Depot Station model.</Description>
+	<ActiveByDefault>0</ActiveByDefault>
     </UserModInfo>
     
     <UserModAuthor>
