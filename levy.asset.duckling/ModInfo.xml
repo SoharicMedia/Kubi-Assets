@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../info.xsd">
+    <!--Hint: If you use an xml editor, you can use the above xsd-file to get autocompletion and validation while editing.-->
+
+    
+    <UserModInfo>
+        <ModName>Duckling</ModName>
+        <Description>Adds duckling actor model.</Description>
+		<ActiveByDefault>0</ActiveByDefault>
+    </UserModInfo>
+
+    
+    <!--Note: If the mod has multiple authors, you can have multiple UserModAuthor-blocks--> 
+    <UserModAuthor>
+        <AuthorName>Levy</AuthorName>
+    </UserModAuthor>
+</info>
