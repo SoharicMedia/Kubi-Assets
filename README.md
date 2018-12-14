@@ -1,7 +1,7 @@
 # Kubifaktorium Asset Pack
-<p>This project started off life as several small modifications for Kubifaktorium. By combining things like cow variants, new robots, helicopters etc, this 'modpack' provides a greater variety of assets to the game in one install.</p>
+<p>This project started off life as several small modifications for Kubifaktorium, messing around with base game files. Now that mods are supported in a better way, the base game files can be left alone and mods installed and uninstalled very easily.</p>
 <p><b>Installation</b><p>
-<p>To install, simply extract this whole repository into Kubifaktorium's <i>Mods</i> folder.</p>
+<p>To install, simply extract this repository into Kubifaktorium's <i>Mods</i> folder.</p>
 <p><b>Contents</b></p>
 <p><ul>	
 <li>Iron Street Lamps</li>
