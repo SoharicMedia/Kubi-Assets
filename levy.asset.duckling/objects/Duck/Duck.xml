@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<info>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:noNamespaceSchemaLocation="../../../info.xsd">
+	  
 	<BaseInfo>
   		<Faction>Neutral</Faction>
 	</BaseInfo>
@@ -14,15 +16,15 @@
 
 	<ActorInfo>
 		<Speed>0.45</Speed>
-		<Names>Berta,Betty</Names>
-        <TaskGroups>Logistics,Power</TaskGroups>
+		<Names>Berta,Betty</Names>	
         <HerdingBehavior>0.5</HerdingBehavior>
 	</ActorInfo>
 
-    <AudioInfo>
-        <Interval>50</Interval>
-        <ClipName>Duck</ClipName>
-        <ActiveAtNighttime>1</ActiveAtNighttime>
+	<AudioInfo>
+		<Interval>50</Interval>
+		<ClipsDaytime>Duck</ClipsDaytime>
+		<ClipsNighttime>Duck</ClipsNighttime>
+		<ActiveWhenRaining>1</ActiveWhenRaining>
     </AudioInfo>
 
   	<SpawnerInfo>
@@ -35,9 +37,9 @@
   	<ModelInfo>
 		<AnimationFrames>2</AnimationFrames>
 		<AnimationSpeed>0.875</AnimationSpeed>
-		<ScaleX>0.45</ScaleX>
-		<ScaleY>0.45</ScaleY>
-		<ScaleZ>0.45</ScaleZ>
+		<ScaleX>0.3</ScaleX>
+		<ScaleY>0.3</ScaleY>
+		<ScaleZ>0.3</ScaleZ>
     </ModelInfo>
 
 
