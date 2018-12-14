@@ -7,6 +7,7 @@
     <UserModInfo>
         <ModName>Cow and Foods Mod</ModName>
         <Description>No description available</Description>
+		<ActiveByDefault>0</ActiveByDefault>
     </UserModInfo>
 
     

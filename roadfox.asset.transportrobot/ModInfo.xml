@@ -5,7 +5,7 @@
     <UserModInfo>
         <ModName>Basic Transport Robot</ModName>
         <Description>A new transport robot.</Description>
-	<ActiveByDefault>0</ActiveByDefault>
+		<ActiveByDefault>0</ActiveByDefault>
     </UserModInfo>
     
     <UserModAuthor>
