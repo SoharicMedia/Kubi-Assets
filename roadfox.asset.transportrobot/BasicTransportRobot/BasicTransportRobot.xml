@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../../../info.xsd">
+
+	<BaseInfo>
+  		<Faction>Player</Faction>
+	</BaseInfo>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.BasicTransportRobot = Basic transport robot
+           ObjectType.BasicTransportRobot.Desc = Robots can only perform the job they are built to do. Unlike their human owners, they do not improve through experience.
+       </Content>
+    </LocalizationInfo>
+
+	<ActorInfo>
+		<Speed>0.7</Speed>
+		<UnarmedMeleeAttack>5</UnarmedMeleeAttack>
+		<Names>Transi</Names>
+        <TaskGroups>Logistics,Power</TaskGroups>
+        <Animal>0</Animal>
+        <GainsExperience>0</GainsExperience>
+	</ActorInfo>
+	
+    <WorkshopRecipeInfo>
+        <Outputs>BasicTransportRobot</Outputs>
+        <Inputs>2*WoodenBoard,2*MachineParts</Inputs>
+        <ProductionTime>50</ProductionTime>
+        <Workshops>BasicWorkshop</Workshops>
+    </WorkshopRecipeInfo>
+	
+  	<ModelInfo>
+		<AnimationFrames>4</AnimationFrames>
+		<AnimationSpeed>1</AnimationSpeed>
+  	</ModelInfo>
+
+  	<HitpointInfo>
+		<MaxHitpoints>200</MaxHitpoints>
+  	</HitpointInfo>
+
+
+</info>
