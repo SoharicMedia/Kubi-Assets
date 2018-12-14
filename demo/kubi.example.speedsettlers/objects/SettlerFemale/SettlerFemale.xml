@@ -3,6 +3,6 @@
       xsi:noNamespaceSchemaLocation="../../../../info.xsd">
     
     <ActorInfo>
-        <Speed>5</Speed>
+        <Speed>10</Speed>
     </ActorInfo>
 </info>
