@@ -3,10 +3,13 @@
       xsi:noNamespaceSchemaLocation="../../info.xsd">
     <!--Hint: If you use an xml editor, you can use the above xsd-file to get autocompletion and validation while editing.-->
 
+    
     <UserModInfo>
-        <ActiveByDefault>0</ActiveByDefault>
-        <ModName>Speedy Colonist Mod</ModName>
-        <Description>This is a simple example mod that increases your colonists' speed.</Description>
+        <ModName>Demonstration Mods</ModName>
+        <Description>	This is a simple example mod that increases your colonists' speed.
+						Bakeries are now produced using stone blocks (instead of bricks).
+						Sheep are much bigger now and spawn much more often.
+						This is a simple example mod which demos how to add an item.</Description>
     </UserModInfo>
 
     
