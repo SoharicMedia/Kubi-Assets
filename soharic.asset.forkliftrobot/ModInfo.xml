@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../info.xsd">
+    
+    <UserModInfo>
+        <ModName>Forklift Robot</ModName>
+        <Description>A new transport robot.</Description>
+    </UserModInfo>
+    
+    <UserModAuthor>
+        <AuthorName>Soharic</AuthorName>
+	<Email>contact@soharicmedia.com</Email>
+    </UserModAuthor>
+    <UserModAuthor>
+	<AuthorName>roadfox</AuthorName>
+    </UserModAuthor>
+</info>
