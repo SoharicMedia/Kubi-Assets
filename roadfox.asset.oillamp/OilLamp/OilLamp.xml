@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../../info.xsd">
+    
+	<BaseInfo>
+	</BaseInfo>
+
+	<LocalizationInfo>
+		<Language>English</Language>
+		<Content>
+			ObjectType.OilLamp = Oil lamp
+			ObjectType.OilLamp.Desc = Ancient oil lamp.
+		</Content>
+	</LocalizationInfo>
+
+	<DecorationInfo>
+		<Category>Decoration</Category>
+	</DecorationInfo>
+
+	<BuildingRecipeInfo>
+		<Ingredients>1*IronBlock,1*Oil</Ingredients>
+		<CanBuildOnAllSolidGround>1</CanBuildOnAllSolidGround>
+	</BuildingRecipeInfo>
+
+	<ModelInfo>
+		<SpecialPrefabs>TorchSmoke,TorchLight,BonfireSound</SpecialPrefabs>
+		<BuildFrames>2</BuildFrames>
+	</ModelInfo>
+
+	<SpawnerInfo>
+  		<SpawnTiles>Floor_Sand,Floor_Grass,Floor_Desert_Sand,Floor_Desert_SandHigh</SpawnTiles>
+  	</SpawnerInfo>
+
+</info>

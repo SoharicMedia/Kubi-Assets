@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../../../info.xsd">
+
+	<LocalizationInfo>
+		<Language>English</Language>
+		<Content>
+			ObjectType.HarvestedFlax = Harvested flax
+			ObjectType.HarvestedFlax.Desc = Flax as a crop that can be used to produce linen and oil.
+		</Content>
+	</LocalizationInfo>
+
+	<ItemInfo>
+		<Weight>0.5</Weight>
+		<StackCount>4</StackCount>
+		<StackType>Beside</StackType>
+	</ItemInfo>
+
+</info>

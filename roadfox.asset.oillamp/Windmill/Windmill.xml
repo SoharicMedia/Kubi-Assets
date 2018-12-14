@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../../info.xsd">
+
+	<BaseInfo>
+	    <Size>2</Size>
+	</BaseInfo>
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.Windmill = Windmill
+           ObjectType.Windmill.Desc = Used to produce linseed oil.
+       </Content>
+    </LocalizationInfo>
+	
+	<AutomaticWorkshopInfo>
+        <Category>Workshop</Category>
+	</AutomaticWorkshopInfo>
+	
+	<ModelInfo> 
+		<AnimationFrames>8</AnimationFrames>
+		<AnimationSpeed>0.5</AnimationSpeed>
+		<AnimationAutoStart>1</AnimationAutoStart>
+		<AnimationAutoSync>1</AnimationAutoSync>
+	</ModelInfo>	
+	
+	<BuildingRecipeInfo>
+		<Ingredients>2*Log,1*HarvestedWheat</Ingredients>    
+	</BuildingRecipeInfo>
+</info>

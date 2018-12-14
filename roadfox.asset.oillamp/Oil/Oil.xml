@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../../../info.xsd">
+
+    <LocalizationInfo>
+       <Language>English</Language>
+       <Content>
+           ObjectType.Oil = Oil
+           ObjectType.Oil.Desc = Used in Lamps and Gears.
+       </Content>
+    </LocalizationInfo>
+
+    <ItemInfo>
+        <StackCount>4</StackCount>
+        <StackType>Beside</StackType>
+        <StackDist>2.75</StackDist>
+        <IsDrink>0</IsDrink>
+    </ItemInfo>
+
+    <WorkshopRecipeInfo>
+        <Outputs>Oil</Outputs>
+        <Inputs>4*HarvestedFlax</Inputs>
+        <ProductionTime>25</ProductionTime>
+        <Workshops>Windmill</Workshops>
+    </WorkshopRecipeInfo>
+
+</info>

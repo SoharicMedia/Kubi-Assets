@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:noNamespaceSchemaLocation="../../../info.xsd">
+
+	<BaseInfo>
+        <AddCollider>1</AddCollider>
+	</BaseInfo>
+
+    <LocalizationInfo>
+		<Language>English</Language>
+		<Content>
+            ObjectType.Flax = Flax
+            ObjectType.Flax.Desc = Flax, also known as common flax or linseed, a fibre and oil crop.
+        </Content>
+	</LocalizationInfo>
+
+    <MineableInfo>
+        <MinesTo>HarvestedFlax</MinesTo>
+    </MineableInfo>
+
+	<ModelInfo>
+ 		<height>1.25</height>
+         <BuildFrames>6</BuildFrames>
+	</ModelInfo>
+
+  	<PlantInfo>
+        <GrowsOnTile>Floor_Grass, Floor_Earth</GrowsOnTile>
+  		<GrowTime>120</GrowTime>
+      	<IsCrop>1</IsCrop>
+  	</PlantInfo>
+</info>
