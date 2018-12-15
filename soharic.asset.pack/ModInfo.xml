@@ -5,6 +5,7 @@
     <UserModInfo>
         <ModName>Soharic's Asset Pack</ModName>
         <Description>Tested and functional mods.</Description>
+		<Version>0.1</Version>
 		<ActiveByDefault>1</ActiveByDefault>
     </UserModInfo>
     
