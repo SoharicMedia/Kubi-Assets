@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../../../info.xsd">
+
+    <!--Beach rocks are randomly spawned on the coast. By default they don't make any noise but this mod changes that.--> 
+    <AudioInfo>
+        <ClipsDaytime>WaveSplash</ClipsDaytime>
+        <ClipsNighttime>WaveSplash</ClipsNighttime>
+        <ActiveWhenRaining>1</ActiveWhenRaining>
+        <Ambience>1</Ambience>
+        <Interval>50</Interval>
+        <SpawnChance>1</SpawnChance>
+    </AudioInfo>
+</info>

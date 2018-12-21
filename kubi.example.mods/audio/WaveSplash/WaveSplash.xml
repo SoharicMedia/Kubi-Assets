@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../../../info.xsd">
+
+
+    <!--Three audio clips extracted from the CC0 file at https://freesound.org/people/floating%20tree/sounds/253607/. -->   
+    <AudioClipInfo>
+        <Source>https://freesound.org/people/floating%20tree/sounds/253607/</Source>
+        <Variations>3</Variations>
+        <BaseVolume>0.75</BaseVolume> <!--Use this to adjust the relative volume.-->
+        <VolumeVariance>0.3</VolumeVariance>
+        <BasePitch>1</BasePitch>
+        <PitchVariance>0.1</PitchVariance>
+    </AudioClipInfo>
+</info>
