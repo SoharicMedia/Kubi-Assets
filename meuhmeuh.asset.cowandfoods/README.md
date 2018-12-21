@@ -1,45 +1,19 @@
-# Kubifaktorium Asset Pack
-<p>This project started off life as several small modifications for Kubifaktorium, messing around with base game files. Now that mods are supported in a better way, the base game files can be left alone and mods installed and uninstalled very easily.</p>
-<h2><b>Installation</b></h2>
-<p>To install, simply extract this repository into Kubifaktorium's <i>Mods</i> folder.</p>
-<p><h2>Contents</b></h2>
-<h4>Soharic</h4>
+# Cow and Foods Mod
+<p></p>
+<h3>Contents</h3>
 <p><ul>
-<li>Forklift Robot</li>
-<li>Iron Street Lamps</li>
-<li>Zeppelin Depot Pad</li>
-<li>Zeppelin Variants</li>
+<li>Add Oven : Cook Bread and Fish</li>
+<li>Add Fishing House : Get Raw Fish</li>
+<li>Add Raw Fish</li>
+<li>Add Cooked Fish : Crafted in Oven</li>
+<li>Add Carrot Farm</li>
+<li>Add Carrot Stew : Crafted in Bakery</li>
+<li>Add Stick : Crafted in Basic Workshop</li>
+<li>Add Flour : Crafted in Windmill <i>(Windmill available in roadfox.asset.oillamp)</i></li>
+<li>Add Fishing Rod <i>(Currently useless)</i></li>
+<li>Changed Bread recipe : Crafted in Oven</li>
+<li>Changed Wood Tool recipe : Now with Stick</li>
 </ul></p>
-<h4>roadfox</h4>
-<p><ul>
-<li>Basic Transport Robot</li>
-<li>Flax</li>
-<li>Harvested Flax</li>
-<li>Oil</li>
-<li>Oil Lamp</li>
-<li>Windmill</li>
-</ul></p>
-<h4>meuh meuh</h4>
-<p><ul>
-<li>Bread</li>
-<li>Carrot</li>
-<li>Carrot Stew</li>
-<li>Cooked Fish</li>
-<li>Fishing House</li>
-<li>Fishing Rod</li>
-<li>Flour</li>
-<li>Harvested Carrot</li>
-<li>Oven</li>
-<li>Raw Fish</li>
-<li>Stick</li>
-<li>Wood Hammer</li>
-<li>Wood Pickaxe</li>
-<li>Wood Shovel</li>
-<li>Wood Sword</li>
-</ul></p>
-<h4>Levy</h4>
-<p><ul>
-<li>Duckling</li>
-</ul></p>
-<p>Full details of what this package contains can be found: https://soharicmedia.com/kubifaktorium/asset-pack</p>
-<p>Please report any issues via GitHub Issues so that we can work on a solution. :)</p>
+<h3>Credits</h3>
+<p>Original assets by Meuhmeuh#0741</p>
+<p>This asset was created by a 3rd party. However, if there are any major issues, please do report them via GitHub Issues.</p>

@@ -6,10 +6,7 @@
     
     <UserModInfo>
         <ModName>Demonstration Mods</ModName>
-        <Description>	This is a simple example mod that increases your colonists' speed.
-						Bakeries are now produced using stone blocks (instead of bricks).
-						Sheep are much bigger now and spawn much more often.
-						This is a simple example mod which demos how to add an item.</Description>
+        <Description>All of the developer's example mods in one location for reference</Description>
     </UserModInfo>
 
     

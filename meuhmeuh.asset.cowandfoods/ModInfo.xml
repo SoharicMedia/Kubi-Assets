@@ -6,7 +6,7 @@
     
     <UserModInfo>
         <ModName>Cow and Foods Mod</ModName>
-        <Description>No description available</Description>
+        <Description>Adds a variety of new assets</Description>
 		<ActiveByDefault>0</ActiveByDefault>
     </UserModInfo>
 
@@ -16,28 +16,3 @@
         <AuthorName>Meuh Meuh</AuthorName>
     </UserModAuthor>
 </info>
-
-
-MODINFO.TXT
-
-Name   : Cow And Foods
-Version: v0.1
-Author : Meuhmeuh#0741
-
-Require: OilLamp
-Thanks for roadfox#1682 to allow me to have his mod as require !
-
-Changelog v0.1
- - Add Oven : Cook Bread and Fish
- - Add Fishing House : Get Raw Fish
- - Add Raw Fish
- - Add Cooked Fish : Crafted in Oven
-
- - Add Carrot farm
- - Add Carrot Stew : Crafted in Bakery
-
- - Add Stick : Crafted in Basic Workshop
- - Add Flour : Crafted in Windmill (OilLamp Mod)
- - Add Fishing Rod : Useless for now !
- - Changed Bread recipe: Crafted in Oven
- - Changed Wood Tool recipe : Now with Stick
