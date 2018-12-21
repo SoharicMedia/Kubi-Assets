@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="../../info.xsd">
+
+    <UserModInfo>
+        <ModName>Harry Hill Mod</ModName>
+        <Description>Adds a Harry Hill model as a new male settler.</Description>
+		<ActiveByDefault>0</ActiveByDefault>
+    </UserModInfo>
+
+    <UserModAuthor>
+        <AuthorName>Literally Jesus</AuthorName>
+    </UserModAuthor>
+</info>
