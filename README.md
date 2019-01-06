@@ -42,4 +42,9 @@
 <li>Duckling</li>
 </ul></p>
 <p>Full details of what this package contains can be found: https://soharicmedia.com/kubifaktorium/asset-pack</p>
+<h2>Issues</h2>
 <p>Please report any issues via GitHub Issues so that we can work on a solution. :)</p>
+<h2>Contribute</h2>
+<p>To edit voxel models, MagicaVoxel version 0.98.2 is recommended: https://www.dropbox.com/sh/t0hf5t0z89bqbdi/AAD_SN_cXxLILllzWztCuSMIa</p>
+
+
