@@ -47,4 +47,4 @@
 <h2>Contribute</h2>
 <p>To edit voxel models, MagicaVoxel version 0.98.2 is recommended: https://www.dropbox.com/sh/t0hf5t0z89bqbdi/AAD_SN_cXxLILllzWztCuSMIa</p>
 
-
+<b>This repository has been archived as processes and assets are outdated. New asset repositories will be opened shortly.
